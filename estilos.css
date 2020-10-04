@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.form-registro {
+    width: 550px;
+    background: black;
+    padding: 35px;
+    margin: auto;
+    margin-top: 100px;
+
+}
+
+.form-registro h3 {
+    font-size: 25px;
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+}
+
+.controls {
+    width: 500px;
+    background: pink;
+    height: 30px;
+}
+
+.terminos {
+    color: white;
+    text-align: center;
+}
+
+.botons {
+    background-color: pink;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
